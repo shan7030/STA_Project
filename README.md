@@ -12,7 +12,7 @@ STA 220 Project
 7. course_details (description + learning objectives)
 8. course_level (All: 0, Beginner: 1, Intermediate: 2, Advanced: 3)
 9. course_no_of_reviews
-10. course_enrolled
+10. course_no_of_enrolled
 
 
 ## Sources

@@ -16,7 +16,7 @@ STA 220 Project
 
 
 ## Sources
-Udemy(Description+ What you'll learn)
-Courseera(Skills you'll gain + Modules Description)
-PluralSight(What you'll learn + Table of contents)
+- Udemy(Description+ What you'll learn)
+- Courseera(Skills you'll gain + Modules Description)
+- PluralSight(What you'll learn)
 

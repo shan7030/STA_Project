@@ -9,7 +9,7 @@
 
 - Within the `Course Recommendation.ipynb` file, you'll discover code designed to recommend courses based on cosine similarity. This includes preprocessing steps, the recommendation algorithm, and the recommendation function.
 
-- The contents of the `Visualization.ipynb` file pertain to data visualization. All resulting `*.html` files are generated as a consequence of these visualizations.
+- The contents of the `Visualization/Visualization.ipynb` file pertain to data visualization. All resulting `*.html` files are generated as a consequence of these visualizations.
 
 
 ## Table Columns Fetched

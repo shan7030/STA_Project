@@ -20,9 +20,9 @@
 5. course_rating (out of 5)
 6. course_duration (In hrs)
 7. course_details (Definition based on the source)
-- Udemy(Description+ What you'll learn)
-- Courseera(Skills you'll gain + Modules Description)
-- PluralSight(What you'll learn)
+   - Udemy(Description+ What you'll learn)
+   - Courseera(Skills you'll gain + Modules Description)
+   - PluralSight(What you'll learn)
 8. course_level (All: 0, Beginner: 1, Intermediate: 2, Advanced: 3)
 9. course_no_of_reviews
 10. course_no_of_enrolled
